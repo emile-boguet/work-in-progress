@@ -1,0 +1,25 @@
+body
+{
+    background: linear-gradient(to left, #006a6b 50%,#ffffff 50%);
+
+}
+main
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+.p
+{
+    font-size: 19px;
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+}
+.ronflex
+{
+    margin-right: 125px;
+    height: 355px;
+    width: 355px;
+}
